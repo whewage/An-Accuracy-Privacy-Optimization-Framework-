@@ -1,4 +1,4 @@
-# Privacy Preserving Data Stream Perturbation
+# An Accuracy-Privacy Optimization Framework Considering User’s Privacy Requirements for Data Stream Mining
 
 This repository contains experimentation with accuracy-privacy framework implemented using a accuracy module,
 privacy module and a data fitting module. It consideres user's privacy threshold as a input parameter when
